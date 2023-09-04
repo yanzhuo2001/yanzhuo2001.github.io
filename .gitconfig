@@ -1,2 +1,4 @@
 [core]
 	editor = \"C:\\Users\\16979\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	email = yanzhuo@umich.edu
