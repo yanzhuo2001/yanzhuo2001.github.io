@@ -1,0 +1,146 @@
+[W 14:01:19.634 NotebookApp] Loading JupyterLab as a classic notebook (v6) extension.
+[I 2023-06-15 14:01:19.643 LabApp] JupyterLab extension loaded from D:\anaconda3\lib\site-packages\jupyterlab
+[I 2023-06-15 14:01:19.643 LabApp] JupyterLab application directory is D:\anaconda3\share\jupyter\lab
+[I 14:01:20.790 NotebookApp] The port 8888 is already in use, trying another port.
+[I 14:01:20.792 NotebookApp] Serving notebooks from local directory: C:\Users\16979
+[I 14:01:20.792 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 14:01:20.792 NotebookApp] http://localhost:8889/?token=1ad773840598310bc0b5049c48b2e0be8487814b81ac1410
+[I 14:01:20.793 NotebookApp]  or http://127.0.0.1:8889/?token=1ad773840598310bc0b5049c48b2e0be8487814b81ac1410
+[I 14:01:20.793 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:01:21.043 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/16979/AppData/Roaming/jupyter/runtime/nbserver-11916-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=1ad773840598310bc0b5049c48b2e0be8487814b81ac1410
+     or http://127.0.0.1:8889/?token=1ad773840598310bc0b5049c48b2e0be8487814b81ac1410
+[I 14:02:03.049 NotebookApp] Uploading file to /zyh_code2.ipynb
+[W 14:02:03.081 NotebookApp] Notebook zyh_code2.ipynb is not trusted
+[I 14:02:04.215 NotebookApp] Uploading file to /zyh_code1.ipynb
+[W 14:02:07.946 NotebookApp] Config option `inkscape_executable` not recognized by `ASCIIDocExporter`.
+[W 14:02:07.954 NotebookApp] Config option `inkscape_executable` not recognized by `ASCIIDocExporter`.
+[W 14:02:07.987 NotebookApp] Config option `inkscape_executable` not recognized by `TemplateExporter`.
+[W 14:02:07.994 NotebookApp] Config option `inkscape_executable` not recognized by `TemplateExporter`.
+[W 14:02:08.027 NotebookApp] Config option `inkscape_executable` not recognized by `HTMLExporter`.
+[W 14:02:08.033 NotebookApp] Config option `inkscape_executable` not recognized by `HTMLExporter`.
+[W 14:02:08.066 NotebookApp] Config option `inkscape_executable` not recognized by `LatexExporter`.
+[W 14:02:08.074 NotebookApp] Config option `inkscape_executable` not recognized by `LatexExporter`.
+[W 14:02:08.108 NotebookApp] Config option `inkscape_executable` not recognized by `MarkdownExporter`.
+[W 14:02:08.115 NotebookApp] Config option `inkscape_executable` not recognized by `MarkdownExporter`.
+[W 14:02:08.151 NotebookApp] Config option `inkscape_executable` not recognized by `NotebookExporter`.
+[W 14:02:08.152 NotebookApp] Config option `inkscape_executable` not recognized by `NotebookExporter`.
+[W 14:02:08.180 NotebookApp] Config option `inkscape_executable` not recognized by `PDFExporter`.
+[W 14:02:08.188 NotebookApp] Config option `inkscape_executable` not recognized by `PDFExporter`.
+[W 14:02:08.225 NotebookApp] Config option `inkscape_executable` not recognized by `PythonExporter`.
+[W 14:02:08.232 NotebookApp] Config option `inkscape_executable` not recognized by `PythonExporter`.
+[W 14:02:08.267 NotebookApp] Config option `inkscape_executable` not recognized by `RSTExporter`.
+[W 14:02:08.274 NotebookApp] Config option `inkscape_executable` not recognized by `RSTExporter`.
+[W 14:02:08.307 NotebookApp] Config option `inkscape_executable` not recognized by `ScriptExporter`.
+[W 14:02:08.315 NotebookApp] Config option `inkscape_executable` not recognized by `ScriptExporter`.
+[W 14:02:08.348 NotebookApp] Config option `inkscape_executable` not recognized by `SlidesExporter`.
+[W 14:02:08.357 NotebookApp] Config option `inkscape_executable` not recognized by `SlidesExporter`.
+[W 14:02:08.393 NotebookApp] Config option `inkscape_executable` not recognized by `WebPDFExporter`.
+[W 14:02:08.401 NotebookApp] Config option `inkscape_executable` not recognized by `WebPDFExporter`.
+[W 14:02:08.435 NotebookApp] Config option `inkscape_executable` not recognized by `ASCIIDocExporter`.
+[W 14:02:08.478 NotebookApp] Config option `inkscape_executable` not recognized by `TemplateExporter`.
+[W 14:02:08.518 NotebookApp] Config option `inkscape_executable` not recognized by `HTMLExporter`.
+[W 14:02:08.561 NotebookApp] Config option `inkscape_executable` not recognized by `LatexExporter`.
+[W 14:02:08.605 NotebookApp] Config option `inkscape_executable` not recognized by `MarkdownExporter`.
+[W 14:02:08.646 NotebookApp] Config option `inkscape_executable` not recognized by `NotebookExporter`.
+[W 14:02:08.679 NotebookApp] Config option `inkscape_executable` not recognized by `PDFExporter`.
+[W 14:02:08.721 NotebookApp] Config option `inkscape_executable` not recognized by `PythonExporter`.
+[W 14:02:08.762 NotebookApp] Config option `inkscape_executable` not recognized by `RSTExporter`.
+[W 14:02:08.803 NotebookApp] Config option `inkscape_executable` not recognized by `ScriptExporter`.
+[W 14:02:08.845 NotebookApp] Config option `inkscape_executable` not recognized by `SlidesExporter`.
+[W 14:02:08.891 NotebookApp] Config option `inkscape_executable` not recognized by `WebPDFExporter`.
+[I 14:02:09.749 NotebookApp] Kernel started: 536dc618-435c-408f-8ee3-59c61ed2656d, name: python3
+[I 14:02:21.304 NotebookApp] Starting buffering for 536dc618-435c-408f-8ee3-59c61ed2656d:d27684f32f6d45ceb0808ddaba0b8e0a
+[I 14:02:21.560 NotebookApp] Kernel restarted: 536dc618-435c-408f-8ee3-59c61ed2656d
+[I 14:02:21.567 NotebookApp] Restoring connection for 536dc618-435c-408f-8ee3-59c61ed2656d:d27684f32f6d45ceb0808ddaba0b8e0a
+[I 14:02:23.596 NotebookApp] Replaying 3 buffered messages
+[I 14:03:47.646 NotebookApp] Starting buffering for 536dc618-435c-408f-8ee3-59c61ed2656d:d27684f32f6d45ceb0808ddaba0b8e0a
+[W 14:03:50.863 NotebookApp] Config option `inkscape_executable` not recognized by `ASCIIDocExporter`.
+[W 14:03:50.871 NotebookApp] Config option `inkscape_executable` not recognized by `ASCIIDocExporter`.
+[W 14:03:50.906 NotebookApp] Config option `inkscape_executable` not recognized by `TemplateExporter`.
+[W 14:03:50.912 NotebookApp] Config option `inkscape_executable` not recognized by `TemplateExporter`.
+[W 14:03:50.945 NotebookApp] Config option `inkscape_executable` not recognized by `HTMLExporter`.
+[W 14:03:50.951 NotebookApp] Config option `inkscape_executable` not recognized by `HTMLExporter`.
+[W 14:03:50.988 NotebookApp] Config option `inkscape_executable` not recognized by `LatexExporter`.
+[W 14:03:50.996 NotebookApp] Config option `inkscape_executable` not recognized by `LatexExporter`.
+[W 14:03:51.030 NotebookApp] Config option `inkscape_executable` not recognized by `MarkdownExporter`.
+[W 14:03:51.038 NotebookApp] Config option `inkscape_executable` not recognized by `MarkdownExporter`.
+[W 14:03:51.072 NotebookApp] Config option `inkscape_executable` not recognized by `NotebookExporter`.
+[W 14:03:51.073 NotebookApp] Config option `inkscape_executable` not recognized by `NotebookExporter`.
+[W 14:03:51.102 NotebookApp] Config option `inkscape_executable` not recognized by `PDFExporter`.
+[W 14:03:51.109 NotebookApp] Config option `inkscape_executable` not recognized by `PDFExporter`.
+[W 14:03:51.143 NotebookApp] Config option `inkscape_executable` not recognized by `PythonExporter`.
+[W 14:03:51.150 NotebookApp] Config option `inkscape_executable` not recognized by `PythonExporter`.
+[W 14:03:51.184 NotebookApp] Config option `inkscape_executable` not recognized by `RSTExporter`.
+[W 14:03:51.190 NotebookApp] Config option `inkscape_executable` not recognized by `RSTExporter`.
+[W 14:03:51.226 NotebookApp] Config option `inkscape_executable` not recognized by `ScriptExporter`.
+[W 14:03:51.233 NotebookApp] Config option `inkscape_executable` not recognized by `ScriptExporter`.
+[W 14:03:51.268 NotebookApp] Config option `inkscape_executable` not recognized by `SlidesExporter`.
+[W 14:03:51.278 NotebookApp] Config option `inkscape_executable` not recognized by `SlidesExporter`.
+[W 14:03:51.316 NotebookApp] Config option `inkscape_executable` not recognized by `WebPDFExporter`.
+[W 14:03:51.325 NotebookApp] Config option `inkscape_executable` not recognized by `WebPDFExporter`.
+[W 14:03:51.362 NotebookApp] Config option `inkscape_executable` not recognized by `ASCIIDocExporter`.
+[W 14:03:51.405 NotebookApp] Config option `inkscape_executable` not recognized by `TemplateExporter`.
+[W 14:03:51.444 NotebookApp] Config option `inkscape_executable` not recognized by `HTMLExporter`.
+[W 14:03:51.487 NotebookApp] Config option `inkscape_executable` not recognized by `LatexExporter`.
+[W 14:03:51.529 NotebookApp] Config option `inkscape_executable` not recognized by `MarkdownExporter`.
+[W 14:03:51.571 NotebookApp] Config option `inkscape_executable` not recognized by `NotebookExporter`.
+[W 14:03:51.602 NotebookApp] Config option `inkscape_executable` not recognized by `PDFExporter`.
+[W 14:03:51.644 NotebookApp] Config option `inkscape_executable` not recognized by `PythonExporter`.
+[W 14:03:51.687 NotebookApp] Config option `inkscape_executable` not recognized by `RSTExporter`.
+[W 14:03:51.729 NotebookApp] Config option `inkscape_executable` not recognized by `ScriptExporter`.
+[W 14:03:51.771 NotebookApp] Config option `inkscape_executable` not recognized by `SlidesExporter`.
+[W 14:03:51.816 NotebookApp] Config option `inkscape_executable` not recognized by `WebPDFExporter`.
+[W 14:03:52.311 NotebookApp] Notebook zyh_code2.ipynb is not trusted
+[I 14:03:54.256 NotebookApp] Kernel started: c6a59faa-5664-473d-a975-bfcc6fb2d231, name: python3
+[W 14:06:10.695 NotebookApp] Config option `inkscape_executable` not recognized by `ASCIIDocExporter`.
+[W 14:06:10.704 NotebookApp] Config option `inkscape_executable` not recognized by `ASCIIDocExporter`.
+[W 14:06:10.741 NotebookApp] Config option `inkscape_executable` not recognized by `TemplateExporter`.
+[W 14:06:10.747 NotebookApp] Config option `inkscape_executable` not recognized by `TemplateExporter`.
+[W 14:06:10.780 NotebookApp] Config option `inkscape_executable` not recognized by `HTMLExporter`.
+[W 14:06:10.787 NotebookApp] Config option `inkscape_executable` not recognized by `HTMLExporter`.
+[W 14:06:10.825 NotebookApp] Config option `inkscape_executable` not recognized by `LatexExporter`.
+[W 14:06:10.834 NotebookApp] Config option `inkscape_executable` not recognized by `LatexExporter`.
+[W 14:06:10.868 NotebookApp] Config option `inkscape_executable` not recognized by `MarkdownExporter`.
+[W 14:06:10.875 NotebookApp] Config option `inkscape_executable` not recognized by `MarkdownExporter`.
+[W 14:06:10.909 NotebookApp] Config option `inkscape_executable` not recognized by `NotebookExporter`.
+[W 14:06:10.911 NotebookApp] Config option `inkscape_executable` not recognized by `NotebookExporter`.
+[W 14:06:10.940 NotebookApp] Config option `inkscape_executable` not recognized by `PDFExporter`.
+[W 14:06:10.947 NotebookApp] Config option `inkscape_executable` not recognized by `PDFExporter`.
+[W 14:06:10.982 NotebookApp] Config option `inkscape_executable` not recognized by `PythonExporter`.
+[W 14:06:10.990 NotebookApp] Config option `inkscape_executable` not recognized by `PythonExporter`.
+[W 14:06:11.025 NotebookApp] Config option `inkscape_executable` not recognized by `RSTExporter`.
+[W 14:06:11.033 NotebookApp] Config option `inkscape_executable` not recognized by `RSTExporter`.
+[W 14:06:11.067 NotebookApp] Config option `inkscape_executable` not recognized by `ScriptExporter`.
+[W 14:06:11.074 NotebookApp] Config option `inkscape_executable` not recognized by `ScriptExporter`.
+[W 14:06:11.109 NotebookApp] Config option `inkscape_executable` not recognized by `SlidesExporter`.
+[W 14:06:11.119 NotebookApp] Config option `inkscape_executable` not recognized by `SlidesExporter`.
+[W 14:06:11.155 NotebookApp] Config option `inkscape_executable` not recognized by `WebPDFExporter`.
+[W 14:06:11.165 NotebookApp] Config option `inkscape_executable` not recognized by `WebPDFExporter`.
+[W 14:06:11.202 NotebookApp] Config option `inkscape_executable` not recognized by `ASCIIDocExporter`.
+[W 14:06:11.244 NotebookApp] Config option `inkscape_executable` not recognized by `TemplateExporter`.
+[W 14:06:11.283 NotebookApp] Config option `inkscape_executable` not recognized by `HTMLExporter`.
+[W 14:06:11.325 NotebookApp] Config option `inkscape_executable` not recognized by `LatexExporter`.
+[W 14:06:11.368 NotebookApp] Config option `inkscape_executable` not recognized by `MarkdownExporter`.
+[W 14:06:11.408 NotebookApp] Config option `inkscape_executable` not recognized by `NotebookExporter`.
+[W 14:06:11.439 NotebookApp] Config option `inkscape_executable` not recognized by `PDFExporter`.
+[W 14:06:11.481 NotebookApp] Config option `inkscape_executable` not recognized by `PythonExporter`.
+[W 14:06:11.522 NotebookApp] Config option `inkscape_executable` not recognized by `RSTExporter`.
+[W 14:06:11.562 NotebookApp] Config option `inkscape_executable` not recognized by `ScriptExporter`.
+[W 14:06:11.604 NotebookApp] Config option `inkscape_executable` not recognized by `SlidesExporter`.
+[W 14:06:11.650 NotebookApp] Config option `inkscape_executable` not recognized by `WebPDFExporter`.
+[W 14:06:11.994 NotebookApp] Notebook Downloads/zyh_code1(1).ipynb is not trusted
+[I 14:06:12.429 NotebookApp] Kernel started: ef46fb60-0d95-4a97-97d2-a4612e77c050, name: python3
+[W 14:08:13.270 NotebookApp] 404 GET /api/contents/Downloads/zyh_code1(1).ipynb?content=0&_=1686809171816 (::1): file or directory does not exist: 'Downloads/zyh_code1(1).ipynb'
+[W 14:08:13.270 NotebookApp] file or directory does not exist: 'Downloads/zyh_code1(1).ipynb'
+[W 14:08:13.270 NotebookApp] 404 GET /api/contents/Downloads/zyh_code1(1).ipynb?content=0&_=1686809171816 (::1) 1.000000ms referer=http://localhost:8889/notebooks/Downloads/zyh_code1(1).ipynb
+[I 14:08:13.275 NotebookApp] Uploading file to /Downloads/zyh_code1(1).ipynb
+[I 14:08:18.926 NotebookApp] Starting buffering for ef46fb60-0d95-4a97-97d2-a4612e77c050:7b1e3bbf73f04bdab5992dab5dc205fc
+[I 14:08:19.554 NotebookApp] Starting buffering for c6a59faa-5664-473d-a975-bfcc6fb2d231:56947898ff5645cb86829158f419b188
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
